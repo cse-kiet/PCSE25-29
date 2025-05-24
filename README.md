@@ -2,9 +2,17 @@
 
 ## Team Members:
 1. Kapil Singh
+   2100290100082
+   CSE-B
 2. Rani Asmit
-3. Prateek Kumar 
-4. Himanshu Sonker 
+   2100290100129
+   CSE-B
+4. Prateek Kumar
+   2200290109010
+   CSE-B
+6. Himanshu Sonker 
+   2200290109007
+   CSE-B
 
 ## Steps for Execution:
 1. [STEP 1]
