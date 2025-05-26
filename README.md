@@ -14,10 +14,20 @@
    2200290109007
    CSE-B
 
-## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+## Steps for Execution the ML Diease Prediction Model:
+1. Open Frontend.ipynb in colab/VS Code
+2. Exceute all the cells.
+3. Gradio Link is generated.
+4. Open the link, upload the picture.
+5. Get diease predicted.
+
+## Steps for Execution the ML Yield Prediction Model:
+1. Open YLDFrontend.ipynb in colab/VS Code
+2. Exceute all the cells.
+3. Gradio Link is generated.
+4. Open the link, enter the data manually.
+5. Get yield predicted,
+
 
 ## Checklist:
 1. Final Project Report
